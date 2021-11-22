@@ -1,0 +1,5 @@
+container: 
+  image: mmaaasshhaaaaa/todo-app:latest
+  
+minReplicas: 2
+maxReplicas: 4  
